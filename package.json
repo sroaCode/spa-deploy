@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/sebastianroa/cursos/landingpage.git"
+    "url": "https://github.com/sroaCode/spa-deploy"
   },
   "author": "sroacode",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/sebastianroa/cursos/landingpage/issues"
+    "url": "https://github.com/sroaCode/spa-deploy/issues"
   },
-  "homepage": "https://gitlab.com/sebastianroa/cursos/landingpage#readme",
+  "homepage": "https://github.com/sroaCode/spa-deploy",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
