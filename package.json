@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/sroaCode/spa-deploy/issues"
   },
-  "homepage": "https://github.com/sroaCode/spa-deploy",
+  "homepage": "https://github.com/sroaCode/spa-deploy/src",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
